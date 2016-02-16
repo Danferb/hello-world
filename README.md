@@ -1,2 +1,3 @@
 # hello-world
-Tutorial by fire
+
+Yup, just learning, :P!
